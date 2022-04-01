@@ -1,0 +1,17 @@
+/* header */
+header{
+
+}
+
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+
+.carousel-item{
+    height: 100vh;
+    background-position: right;
+    background-size: cover;
+
+}
